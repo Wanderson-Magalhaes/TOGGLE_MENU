@@ -1,0 +1,6 @@
+.vscode/
+Include/
+Lib/
+Scripts/
+*.cfg
+*.pyc
